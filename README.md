@@ -103,7 +103,7 @@ Agora é só aproveitar o app. 😉
 ---
 
 ### Telas do aplicativo
-<img src="https://user-images.githubusercontent.com/22685987/147882773-c9edf6c0-f7f5-40c6-88dc-c8c403085b44.jpeg" height="100px"/>
+<img src="https://user-images.githubusercontent.com/22685987/147882773-c9edf6c0-f7f5-40c6-88dc-c8c403085b44.jpeg" height="500px"/>
 
 <img src="https://user-images.githubusercontent.com/22685987/147882774-2448ab1c-0301-43dd-bfe4-eaa5000bca46.jpeg />
 
