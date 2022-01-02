@@ -102,4 +102,12 @@ Agora é só aproveitar o app. 😉
 
 ---
 
-Feito com ♥ by Adrianderson Lira
+### Telas do aplicativo
+![0](https://user-images.githubusercontent.com/22685987/147882773-c9edf6c0-f7f5-40c6-88dc-c8c403085b44.jpeg)
+![1](https://user-images.githubusercontent.com/22685987/147882774-2448ab1c-0301-43dd-bfe4-eaa5000bca46.jpeg)
+![2](https://user-images.githubusercontent.com/22685987/147882775-1fbac42a-c42d-4968-8c08-70eb24c88795.jpeg)
+![3](https://user-images.githubusercontent.com/22685987/147882776-3a44ac62-efd7-4a77-b109-2cd26ebb1aba.jpeg)
+![4](https://user-images.githubusercontent.com/22685987/147882778-9be32ddf-170a-4312-b6c6-2194a4a0dea6.jpeg)
+![5](https://user-images.githubusercontent.com/22685987/147882779-00d5ddfb-a97a-4327-9694-94ab620af40d.jpeg)
+
+
